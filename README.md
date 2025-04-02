@@ -17,5 +17,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirtha134&" alt="tirtha134" /></p>
 
 
+## 🎯 GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-kanrar&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+
+
   
   
