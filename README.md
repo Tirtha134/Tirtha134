@@ -4,6 +4,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtha134&label=Profile%20views&color=0e75b6&style=flat" alt="tirtha134" /> </p>
 
+<!-- ✨ Stylish GitHub Snake Game + Profile Views ✨ -->
+<div style="font-family: 'Poppins', sans-serif; background: linear-gradient(135deg, #00c6ff, #0072ff); color: white; padding: 20px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.4); text-align: center; max-width: 500px; margin: auto;">
+
+  <h2 style="margin-bottom: 10px;">🐍 Watch my GitHub contributions dance!</h2>
+
+  <!-- Strike-through Text -->
+  <p style="font-size: 18px; text-decoration: line-through; color: #ffd6e7;">
+    Work Hard, Nap Harder
+  </p>
+
+  <!-- GitHub Snake Game SVG (Animated) -->
+  <img src="https://github.com/Tirtha134/Tirtha134/blob/output/github-contribution-grid-snake.svg" 
+       alt="GitHub Snake Animation" style="margin: 20px 0; width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+
+  <!-- GitHub Profile Views -->
+  <p style="margin-top: 20px; font-size: 16px;">
+    👀 Profile Views
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Tirtha134&style=for-the-badge&color=brightgreen" 
+       alt="Profile Views" style="margin-top: 10px; border-radius: 8px;">
+
+</div>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tirtha-samanta-211ba631a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tirtha samanta" height="30" width="40" /></a>
