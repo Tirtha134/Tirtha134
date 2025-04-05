@@ -32,16 +32,6 @@
 </p>
 
 
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tirtha134/Tirtha134/blob/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Tirtha134/Tirtha134/blob/output/github-snake.svg" />
-      <img width="804px" alt="github-snake" src="https://github.com/Tirtha134/Tirtha134/blob/output/github-snake-dark.svg" />
-    </picture>
-  </a>
-
-
-
 ✨ **Thanks for visiting my profile! Have a great day!** 🚀
   
   
