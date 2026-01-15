@@ -13,8 +13,11 @@
 </p>
 
 <p align="center">
-  <img alt="coding" width="420"
-       src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  <img
+    alt="coding"
+    width="420"
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+  />
 </p>
 
 ---
@@ -57,15 +60,25 @@
 </p>
 
 ### 🗄️ Databases
- <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-         alt="MongoDB" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="MongoDB"
+      width="45"
+      height="45"
+    />
   </a>
-
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-         alt="Oracle" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+      alt="Oracle Database"
+      width="45"
+      height="45"
+    />
   </a>
+</p>
 
 ### 🧰 Tools & Platforms
 <p align="center">
@@ -76,48 +89,65 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirtha134&show_icons=true&theme=react&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirtha134&theme=react&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tirtha134&show_icons=true&theme=react&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tirtha134&theme=react&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
 
 ## 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirtha134&layout=compact&theme=react&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirtha134&layout=compact&theme=react&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirtha134&theme=react-dark&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tirtha134&theme=react-dark&hide_border=true"
+  />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tirtha134&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=tirtha134&theme=onedark&no-frame=true&row=1&column=6"
+  />
 </p>
 
 ---
 
 ## ✨ Daily Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+  />
 </p>
 
 ---
 
 ## 🔥 Fun Extras
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+  <img
+    src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
+  />
 </p>
 
 ---
 
 <h3 align="center">
-  ⭐ Thanks for visiting my profile! <br/>
+  ⭐ Thanks for visiting my profile ! <br/>
   <sub>Don’t forget to star ⭐ my repositories if you like my work 🚀</sub>
 </h3>
