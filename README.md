@@ -57,9 +57,15 @@
 </p>
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,oracle" />
-</p>
+ <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+         alt="MongoDB" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+         alt="Oracle" width="40" height="40"/>
+  </a>
 
 ### 🧰 Tools & Platforms
 <p align="center">
