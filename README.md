@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=720&lines=Passionate+Web+Developer;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Oracle+Database+%7C+API;DSA+Problem+Solver"
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=720&lines=Passionate+Web+Developer;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;MongoDB+%7C+Oracle+Database+%7C+API;DSA+Problem+Solver"
   />
 </h3>
 
@@ -22,7 +22,7 @@
 ## 🚀 About Me
 <p align="justify">
   🔭 Working on <b>Scalable Full-Stack Web Applications</b><br/>
-  💬 Ask me about <b>Web Development, APIs, SQL & DSA</b><br/>
+  💬 Ask me about <b>Web Development, REST APIs, SQL & DSA</b><br/>
   📫 Reach me via <b>LinkedIn</b><br/>
   ⚡ Fun fact: <i>I love simplifying complex problems into clean solutions</i>
 </p>
